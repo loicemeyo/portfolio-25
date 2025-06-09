@@ -6,6 +6,7 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
+import Mentorship from "./components/Mentorship";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <About />
           <Experience />
           <Education />
+          <Mentorship />
           <Skills />
           <Projects />
           <Contact />
